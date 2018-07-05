@@ -1,6 +1,6 @@
 {
   "name": "instascan-umd",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A UMD compatible port of Instascan",
   "main": "dist/instascan.js",
   "repository": "git@github.com:rubenspgcavalcante/instascan-umd.git",
