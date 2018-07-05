@@ -1,4 +1,4 @@
 import instascan from "instascan";
 
-export const { Scanner, Cameras } = instascan;
+export const { Scanner, Camera } = instascan;
 export default instascan;

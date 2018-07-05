@@ -15,18 +15,18 @@ Just use as you do with istascan:
 
 With ES imports:  
 ```js
-import Instascan, {Scanner, Cameras} from "instascan-umd";
+import Instascan, {Scanner, Camera} from "instascan-umd";
 ```
 
 With CommonsJS:  
 ```js
-const {Scanner, Cameras} = require("instascan-umd");
+const {Scanner, Camera} = require("instascan-umd");
 ```
 
 Or directly in the browser:
 ```js
 window.instascan.Scanner;
-window.instascan.Cameras;
+window.instascan.Camera;
 ```
 
 # License
