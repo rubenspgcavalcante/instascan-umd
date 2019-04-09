@@ -8,7 +8,7 @@ With npm:
 ```npm install instascan-umd --save```
 
 With yarn:
-```yarn add instascan```
+```yarn add instascan-umd```
 
 ## Using:
 Just use as you do with istascan:
